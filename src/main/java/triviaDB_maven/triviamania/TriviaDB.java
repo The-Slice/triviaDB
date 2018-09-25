@@ -7,7 +7,7 @@ import com.mashape.unirest.http.exceptions.UnirestException;
 public class TriviaDB {
 
 	public static void main(String[] args) throws UnirestException {
-//hello b
+
 		TriviaFrame tp = new TriviaFrame();
 		tp.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		tp.setSize(500, 500);
