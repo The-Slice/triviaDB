@@ -10,7 +10,7 @@ public class TriviaFrame extends JFrame {
 
 	public TriviaFrame() throws UnirestException {
 		// set the title do the frame has
-		setTitle("Balls to the Walls Trivia");
+		setTitle("Trivia Mania: The Questioning");
 		// create a TTTPanel
 
 		pane1.LoadNextQuestion(App.getNextQuestion());
